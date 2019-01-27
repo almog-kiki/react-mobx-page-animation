@@ -1,0 +1,6 @@
+{
+  "name": "AnimationType",
+  "version": "0.0.0",
+  "private": true,
+  "main": "./AnimationType.js"
+}
