@@ -4,6 +4,9 @@ With this project, you can see how to take a parameter from state params or usin
 
 At Home Compenent, there is `handleLinkButton` function, you can remove the caller(onClick) and see how the animation from the store does not change.
 
+## Demo
+  https://almog-kiki.github.io/react-mobx-page-animation/index.html
+
 ## Installation
 
 ```
@@ -13,15 +16,15 @@ At Home Compenent, there is `handleLinkButton` function, you can remove the call
 
 ## Tutorials/References
 
-https://github.com/timarney/react-app-rewired/issues/348
+  https://github.com/timarney/react-app-rewired/issues/348
 
-https://github.com/arackaf/customize-cra#addbabelpluginsplugins
+  https://github.com/arackaf/customize-cra#addbabelpluginsplugins
 
-https://www.leighhalliday.com/mobx-create-react-app-without-ejecting 
+  https://www.leighhalliday.com/mobx-create-react-app-without-ejecting 
 
 
 ## Note
 ```
-config-overrides.js - using react-app-rewired 2.*
-jsconfig.json       - for remove experimentalDecorators warning in VSCode
+  config-overrides.js - using react-app-rewired 2.*
+  jsconfig.json       - for remove experimentalDecorators warning in VSCode
 ```
