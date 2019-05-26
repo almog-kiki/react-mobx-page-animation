@@ -1,4 +1,4 @@
-React App Example that demonstrates using Create React App 2.0 with Bable 7 and mobx without eject!
+React App Example that demonstrates using Create React App 2.0 with Babel 7 and mobx without eject!
 
 With this project, you can see how to take a parameter from state params or using Mobx and retrieve a variable from store 
 
